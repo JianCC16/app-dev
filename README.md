@@ -5,7 +5,7 @@ My first repository
 
 *This is my list that i binge watch in Netflix*
 
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 1. All of us are Dead
 	**A high school becomes ground zero for a zombie virus outbreak. Trapped students must fight their way out — or turn into one of the rabid infected.**
@@ -18,4 +18,4 @@ My first repository
 5. Hunger
 	**A talented young street-food cook pushes herself to the limit after accepting an invitation to train under an infamous and ruthless chef.**
 
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
