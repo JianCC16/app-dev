@@ -5,7 +5,7 @@ My first repository
 
 *This is my list that i binge watch in Netflix*
 
-| -------------------- |
+| ----------------------- |
 
 1. All of Us Are Dead
 2. John Wick
@@ -13,4 +13,4 @@ My first repository
 4. Money Heist
 5. Hunger
    
-| -------------------- |
+| ----------------------- |
